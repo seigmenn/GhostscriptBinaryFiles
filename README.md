@@ -8,4 +8,4 @@ GhostScript is published under the **GNU Affero General Public License**. <br>
 There has **not** been made any changes to the source code or the executable files.
 
 ## Licensing
-[APGL](LICENSE) © Artifex
+[AGPL](LICENSE) © Artifex
